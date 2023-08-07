@@ -1,0 +1,27 @@
+                         :-:-:-:-: LOGIN DETAILS :-:-:-:-: 
+
+
+USER    username :narendra@gmail.com
+        password :@Narendra
+
+
+
+ADMIN   username:admin
+        password:mr_Narendra 
+
+
+
+DON'T FORGET TO CREATE A DATABASE NAMING "carrental" AND IMPORT THE SQL FILE AND RUN.
+WITHOUT THE DATABASE THE PROJECT WON'T RUN.
+
+***** IF YOU FIND ANY ERRORS OR ANY PROBLEMS RELATED THIS PROGRAM, FEEL FREE TO CONTACT US *****  
+
+
+***** LEAVE A COMMENT IF YOU LOVED MY WORK *****
+
+
+***** FOR MORE PROJECTS :-https://github.com/NarendranathPanda *****
+
+
+
+#THANK YOU FOR DOWNLOADING
